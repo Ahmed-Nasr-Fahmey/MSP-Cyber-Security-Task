@@ -112,17 +112,3 @@
 </html>
 
 
-
-<!-- <script>
-	
-
-
-	function msp(){
-    
-        alert("TASK SUCCESS");
-        
- }
-</script>
-
-<button onclick="msp();" > Click Here</button>
- -->
